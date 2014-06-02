@@ -1,0 +1,1 @@
+{"name":"endpoint.github.io","tagline":"an HTTP endpoint","body":"# Get what you wish for!\r\nGET /200 gives you a 200 response\r\nGET /400 gives you a 400 response\r\n\r\nTry with http://endpoint.cf/200 and http://endpoint.cf/400\r\n","google":"UA-51495563-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
